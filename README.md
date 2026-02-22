@@ -1,21 +1,14 @@
-## Hi there 👋
-## 💼 Experience
+## Hi there, I'm Misho! 👋
 
-<img src="pngwing.com.png" height="20"/> &nbsp; **Test Automation Engineer** · TBC Bank
+And I'm:
 
-<img src="/tbilisi-state-university-tsu-seeklogo.png" height="20"/> &nbsp; TSU student
+<img src="tbc.png" height="20"/> &nbsp; I'm a **Test Automation Engineer** at **TBC** 
 
-<!--
-**rerolmat-hash/rerolmat-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science** student at **Tbilisi State University (TSU)**.
 
-Here are some ideas to get you started:
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suxita&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/misho-sukhishvili)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mishosukhishvili@gmail.com)
