@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 💼 Experience
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TBC_Bank_logo.svg/200px-TBC_Bank_logo.svg.png" height="20"/> &nbsp; **Test Automation Engineer** · TBC Bank
+<img src="pngwing.com.png" height="20"/> &nbsp; **Test Automation Engineer** · TBC Bank
 <!--
 **rerolmat-hash/rerolmat-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
