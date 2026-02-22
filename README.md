@@ -2,7 +2,9 @@
 
 And I'm:
 
-<img src="tbc.png" height="20"/> &nbsp; I'm a **Test Automation Engineer** at **TBC** 
+<img src="pngwing.com.png" height="20"/> &nbsp; **Test Automation Engineer** · TBC Bank
+
+<img src="pngwing.com.png" height="20"/> &nbsp; I'm a **Test Automation Engineer** at **TBC** 
 
 **Computer Science** student at **Tbilisi State University (TSU)**.
 
