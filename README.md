@@ -4,9 +4,12 @@ And I'm:
 
 <img src="pngwing.com.png" height="20"/> &nbsp; **Test Automation Engineer** · TBC Bank
 
-<img src="pngwing.com.png" height="20"/> &nbsp; I'm a **Test Automation Engineer** at **TBC** 
 
-**Computer Science** student at **Tbilisi State University (TSU)**.
+<img src="tbilisi-state-university-tsu-seeklogo.png" height="20"/> &nbsp; TSU student
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suxita&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suxita&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
