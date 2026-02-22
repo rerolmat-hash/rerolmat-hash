@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a **Test Automation Engineer** at **TBC** ![TBC]([https://img.shields.io/badge/TBC_Bank-Test_Automation_Engineer-003087?style=flat&logoColor=white](https://w7.pngwing.com/pngs/911/456/png-transparent-computer-icons-business-others-blue-angle-leaf.png))
 <!--
 **rerolmat-hash/rerolmat-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
