@@ -3,7 +3,8 @@
 
 <img src="pngwing.com.png" height="20"/> &nbsp; **Test Automation Engineer** · TBC Bank
 
-<img src="/tbilisi-state-university-tsu-seeklogo.png" height="20"/> &nbsp; 
+<img src="/tbilisi-state-university-tsu-seeklogo.png" height="20"/> &nbsp; TSU student
+
 <!--
 **rerolmat-hash/rerolmat-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
